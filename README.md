@@ -2,6 +2,6 @@
 Projek belajar
 
 # update
-menambahkan file python pada project
+gua mau jadi orang sukses
 
 
